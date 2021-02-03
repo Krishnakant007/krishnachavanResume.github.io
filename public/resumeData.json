@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Krishna chavan",
+    "occupation": "student",
+    "description": " i love  React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Krishna. I've been coding for over 6 months now. As a Full Stack developer I've worked  with startups  ",
+    "contactmessage": " contact me email or social media",
+    "email": "kvchavan007@gmail.com",
+    "phone": "+919834885423",
+    "address": {
+      "street": "24 ajay nagar",
+      "city": "india",
+      "state": "maharashtra",
+      "zip": "424005"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://krishna.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCmISvvWvuvKkodxxEY8QysA",
+        "className": " fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/krishnakant.chavan.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/krishna-chavan-7167431b7/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/krishnakant5409/saved/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Krishnakant007",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "ssvps  collge",
+        "degree": " im dropout from engineering",
+       
+        "description": "  i love learning something new   or make something new  "
+                                  
+      }
+    ],
+    "work": [
+      {
+        "company": "krishna dev",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": " make you own vision goal passion and follow "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "45%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "55%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "krishna is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "jay patil"
+      },
+      {
+        "text": "Learning with krishna has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "dinesh mondloi"
+      }
+    ]
+  }
+}
